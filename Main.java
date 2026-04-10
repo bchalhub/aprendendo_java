@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //ctrl + shift + O limpa os importes que não estão sendo utilizados
 
 public class Main {
 
