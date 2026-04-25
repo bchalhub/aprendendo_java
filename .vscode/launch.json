@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "estruturas_exercicios",
+            "request": "launch",
+            "mainClass": "estruturas_exercicios",
+            "projectName": "aprendendo_java_43643710"
+        },
+        {
+            "type": "java",
+            "name": "estruturas_while_do_while",
+            "request": "launch",
+            "mainClass": "estruturas_while_do_while",
+            "projectName": "aprendendo_java_43643710"
+        },
+        {
+            "type": "java",
+            "name": "estruturas_for",
+            "request": "launch",
+            "mainClass": "estruturas_for",
+            "projectName": "aprendendo_java_43643710"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "banana maçã melão melancia kiwi uva morango abacaxi"
+        }
+    ]
+}
