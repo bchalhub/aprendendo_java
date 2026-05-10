@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "primeiraClasse_exercicio1",
+            "request": "launch",
+            "mainClass": "primeiraClasse_exercicio1",
+            "projectName": "aprendendo_java_43643710"
+        },
+        {
+            "type": "java",
             "name": "record_person_usando",
             "request": "launch",
             "mainClass": "record_person_usando",
