@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "contaBancariaMain",
+            "request": "launch",
+            "mainClass": "contaBancariaMain",
+            "projectName": "aprendendo_java_43643710"
+        },
+        {
+            "type": "java",
             "name": "primeiraClasse_exercicio1",
             "request": "launch",
             "mainClass": "primeiraClasse_exercicio1",
