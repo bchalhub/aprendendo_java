@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClockMain",
+            "request": "launch",
+            "mainClass": "ClockMain",
+            "projectName": "aprendendo_java_43643710"
+        },
+        {
+            "type": "java",
+            "name": "herançaPolimorfismo_main",
+            "request": "launch",
+            "mainClass": "herançaPolimorfismo_main",
+            "projectName": "aprendendo_java_43643710"
+        },
+        {
+            "type": "java",
             "name": "contaBancariaMain",
             "request": "launch",
             "mainClass": "contaBancariaMain",
